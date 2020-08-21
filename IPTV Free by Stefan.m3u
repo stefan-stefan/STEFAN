@@ -1,0 +1,536 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale" LISTA 1 (FreeTV)
+http://STEFAN-STEFAN
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AUTOMOTO TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",A7 TV HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",1HD MUSIC TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",1 MUSIC TV HUNGARY
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AMC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANIMAL PLANET FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANTENA 1 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANTENA 1 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANTENA 3 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANTENA 3 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",ANTENA STARS FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AXN BLACK SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AXN FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AXN SPIN SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",AXN WHITE SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BALKANIKA HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BALKAN HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BEACH TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",B1 TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BBC WORLD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BOOMERANG RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BOLLYWOOD HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BLOOMBERG TV HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BRIDGE TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BRIDGE TV CLASSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BRIDGE TV HITS DANCE
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BRIDGE TV DELUXE HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BUCOVINA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",BUCURESTI TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CARTOON NETWORK SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",Cinemaraton HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CINETHRONIX HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CINEMAX HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CINEMAX 2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CITY TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",COMEDY EST
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CMC TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CGTN
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",CRIME & INVESTIGATION RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/12050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DA VINCI LEARNING SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIASPORA TV - ROCHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIASPORA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIBI TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI 24 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI 24 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI 4K
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI ANIMAL WORLD HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI LIFE FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI SPORT 1 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI SPORT 2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI SPORT 3 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI SPORT 4 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DIGI WORLD FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFjZXNzZXZpcC50dm9ubGluZTJfc2NyZWVuXzBfMTU2NzYwOTQ2NV8wODI/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="Stefan tv"  group-title="Generale",DISCOVERY CHANNEL HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2214.ts
+#EXTINF:0,DISCOVERY SCIENCE SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2213.ts
+#EXTINF:0,Discovery HD ID Investigation
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4967.ts
+#EXTINF:0,DISNEY CHANNEL RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4893.ts
+#EXTINF:0,DISNEY JUNIOR RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4888.ts
+#EXTINF:0,DEEJAY TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5079.ts
+#EXTINF:0,DIVA CHANNEL SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2268.ts
+#EXTINF:0,DJAZZ HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11994.ts
+#EXTINF:0,DW TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6657.ts
+#EXTINF:0,E! ENTERTAINMENT HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2266.ts
+#EXTINF:0,Epic Drama HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4672.ts
+#EXTINF:0,ETNIC TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11918.ts
+#EXTINF:0,ETNO TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7526.ts
+#EXTINF:0,EURODANCE 90
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6466.ts
+#EXTINF:0,EUROSPORT 1 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2262.ts
+#EXTINF:0,EUROSPORT 2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2261.ts
+#EXTINF:0,EUROSPORT 4K
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11035.ts
+#EXTINF:0,EXPO CHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6639.ts
+#EXTINF:0,FAVORIT TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5051.ts
+#EXTINF:0,FILM CAFE SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2187.ts
+#EXTINF:0,FILM NOW
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4884.ts
+#EXTINF:0,FILM BOX
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7536.ts
+#EXTINF:0,FILM BOX FAMILY
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7540.ts
+#EXTINF:0,FILM BOX EXTRA HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7539.ts
+#EXTINF:0,FILMBOX PREMIUM
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7538.ts
+#EXTINF:0,FISHING AND HUNTING
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4887.ts
+#EXTINF:0,FM ITALIA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6636.ts
+#EXTINF:0,FOXMIX TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6563.ts
+#EXTINF:0,FOR FUN TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6555.ts
+#EXTINF:0,GREEK MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6491.ts
+#EXTINF:0,GREEK MUSIC 2
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6492.ts
+#EXTINF:0,GREEK MUSIC 3
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6493.ts
+#EXTINF:0,GREEK MUSIC 4
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6494.ts
+#EXTINF:0,GREEK MUSIC 5
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6495.ts
+#EXTINF:0,GURINEL TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/12017.ts
+#EXTINF:0,HAPPY CHANNEL HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2180.ts
+#EXTINF:0,HOPE CHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6559.ts
+#EXTINF:0,HORA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8730.ts
+#EXTINF:0,HBO SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6640.ts
+#EXTINF:0,HBO 1 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8723.ts
+#EXTINF:0,HBO 2 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6641.ts
+#EXTINF:0,HBO 2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8724.ts
+#EXTINF:0,HBO 3 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6642.ts
+#EXTINF:0,HBO 3 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8725.ts
+#EXTINF:0,HISTORY CHANNEL FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2258.ts
+#EXTINF:0,HIT MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7525.ts
+#EXTINF:0,HGTV HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7521.ts
+#EXTINF:0,KRONEHIT HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6549.ts
+#EXTINF:0,IMPACT TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11919.ts
+#EXTINF:0,INEDIT TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4889.ts
+#EXTINF:0,ISTROK TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11920.ts
+#EXTINF:0,JASMIN TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6653.ts
+#EXTINF:0,JIM JAM RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7464.ts
+#EXTINF:0,KANAL D
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8732.ts
+#EXTINF:0,KANAL D FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6633.ts
+#EXTINF:0,KISS TV RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5050.ts
+#EXTINF:0,LA90 FM TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6561.ts
+#EXTINF:0,10 Minutes Gone (2019) - Bruce Willis
+http://185.101.107.184:88/movie/MHkD9AdKS9/Nv14NZZ3kW/11961.mp4
+#EXTINF:0,LOOK PLUS HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2252.ts
+#EXTINF:0,LOOK SPORT HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7465.ts
+#EXTINF:0,LOOK SPORT 2
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8729.ts
+#EXTINF:0,LOOK SPORT 3
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8728.ts
+#EXTINF:0,MAGIC TV HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2249.ts
+#EXTINF:0,MEGAMAX SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2247.ts
+#EXTINF:0,MEDIKA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7524.ts
+#EXTINF:0,MELODY CHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5876.ts
+#EXTINF:0,MINIMAX SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2246.ts
+#EXTINF:0,MIORITA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11916.ts
+#EXTINF:0,MARIA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6662.ts
+#EXTINF:0,M2O TV MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5081.ts
+#EXTINF:0,MUSIC CHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4894.ts
+#EXTINF:0,MUSICA INTERNATIONAL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/12016.ts
+#EXTINF:0,MUSICA INTERNATIONAL2
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/12014.ts
+#EXTINF:0,MUSIC TOP HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5875.ts
+#EXTINF:0,MUSIC:Ocko
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10849.ts
+#EXTINF:0,MUSIC:NRG 91
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10850.ts
+#EXTINF:0,MUSIC:MUSICNOW 80s
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10855.ts
+#EXTINF:0,MUSIC:MTV Rocks 36
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10853.ts
+#EXTINF:0,MUSIC:http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10848.ts
+#EXTINF:0,MUSIC:Box Hits 28
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10852.ts
+#EXTINF:0,MUSIC:Baraza Classic
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10835.ts
+#EXTINF:0,MUSIC:ALB MUSIC HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10851.ts
+#EXTINF:0,MUSIC:Afrobeats 24/7
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10834.ts
+#EXTINF:0,MUSIC:9XO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10833.ts
+#EXTINF:0,MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10856.ts
+#EXTINF:0,NATIONAL TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2241.ts
+#EXTINF:0,NATIONAL 24 PLUS
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2172.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2208.ts
+#EXTINF:0,NAT GEO WILD RO FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5082.ts
+#EXTINF:0,NASUL TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2390.ts
+#EXTINF:0,NCN RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7528.ts
+#EXTINF:0,NICK JR SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2239.ts
+#EXTINF:0,NICKELODEON SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2238.ts
+#EXTINF:0,NICKTOONS SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2237.ts
+#EXTINF:0,NEWS:WeatherNation TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10861.ts
+#EXTINF:0,NEWS:Voice of America
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10857.ts
+#EXTINF:0,NEWS:TRT World
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10860.ts
+#EXTINF:0,NEWS:Telesur English
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10862.ts
+#EXTINF:0,NEWS:Sky News
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10863.ts
+#EXTINF:0,NEWS:Newsmax
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10859.ts
+#EXTINF:0,NEWS:NDTV Profit
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10858.ts
+#EXTINF:0,NEWS:LA Sexta
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10865.ts
+#EXTINF:0,NEWS:Bloomberg Asia
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10864.ts
+#EXTINF:0,NEWS:BBC World News
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/10866.ts
+#EXTINF:0,ONE BY HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5873.ts
+#EXTINF:0,OXIGENO TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6507.ts
+#EXTINF:0,ONE FM TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6562.ts
+#EXTINF:0,O!2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6658.ts
+#EXTINF:0,OTV MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6516.ts
+#EXTINF:0,OTTO FM TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6518.ts
+#EXTINF:0,PARIS LIVE
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6503.ts
+#EXTINF:0,PARAMOUNT CHANNEL SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2235.ts
+#EXTINF:0,PARTYMIX
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11913.ts
+#EXTINF:0,PRIMA TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2174.ts
+#EXTINF:0,PLANETA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8722.ts
+#EXTINF:0,PLANETA HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7555.ts
+#EXTINF:0,PRO 2 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2161.ts
+#EXTINF:0,Pro Cinema HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4653.ts
+#EXTINF:0,PRO TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8718.ts
+#EXTINF:0,PRO TV HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7463.ts
+#EXTINF:0,PRO TV INTERNATIONAL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4597.ts
+#EXTINF:0,PRO TV NEWS
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7517.ts
+#EXTINF:0,PRO GOLD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4598.ts
+#EXTINF:0,PRO X FD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2162.ts
+#EXTINF:0,PROFIT TV RO SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2234.ts
+#EXTINF:0,RADIO ROMANIA 3 TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5874.ts
+#EXTINF:0,RADIO RTL 102.5 TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6508.ts
+#EXTINF:0,RADIO U TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6564.ts
+#EXTINF:0,RADIO NUMBER ONE TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6513.ts
+#EXTINF:0,RADIO CONTACT
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6514.ts
+#EXTINF:0,RADIO CAPITAL TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6511.ts
+#EXTINF:0,RADIO 538 TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6510.ts
+#EXTINF:0,RADIO 51 TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6509.ts
+#EXTINF:0,Radio Zeta TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6476.ts
+#EXTINF:0,RED BULL TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6663.ts
+#EXTINF:0,Reload Radio Music Power HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5889.ts
+#EXTINF:0,RETRO TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5072.ts
+#EXTINF:0,REALITATEA TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2173.ts
+#EXTINF:0,ROMANIA TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2171.ts
+#EXTINF:0,ROCK TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7520.ts
+#EXTINF:0,NAGO MUSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6505.ts
+#EXTINF:0,SUPER TV RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4655.ts
+#EXTINF:0,SUPERYACHT TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6638.ts
+#EXTINF:0,SPIRIT TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6565.ts
+#EXTINF:0,SAFE TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6567.ts
+#EXTINF:0,SPORT EXTRA  HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11993.ts
+#EXTINF:0,STINGRAY ICONCERTS
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/11922.ts
+#EXTINF:0,TARAF TV SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2231.ts
+#EXTINF:0,The Weather Channel
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6474.ts
+#EXTINF:0,The Shopping Channel
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6475.ts
+#EXTINF:0,THIS IS BULGARIA HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6472.ts
+#EXTINF:0,TELEKOM SPORT 1 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2200.ts
+#EXTINF:0,TELEKOM SPORT 2 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2199.ts
+#EXTINF:0,TELEKOM SPORT 3 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2198.ts
+#EXTINF:0,TELEKOM SPORT 4 FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2197.ts
+#EXTINF:0,THT EXCLUSIVE
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8731.ts
+#EXTINF:0,TIMELESS DRAMA CHANNEL
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/8727.ts
+#EXTINF:0,Tom & Jerry 24/7
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6471.ts
+#EXTINF:0,TLC SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2230.ts
+#EXTINF:0,TNT HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2229.ts
+#EXTINF:0,TRAVEL CHANNEL FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2206.ts
+#EXTINF:0,TRAVEL MIX SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2226.ts
+#EXTINF:0,TRINITAS RO
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7527.ts
+#EXTINF:0,TV PAPRIKA SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2223.ts
+#EXTINF:0,TV1000 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2222.ts
+#EXTINF:0,TVR 1 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2169.ts
+#EXTINF:0,TVR 2 HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2168.ts
+#EXTINF:0,TVR 3 SD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2167.ts
+#EXTINF:0,TVR FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2166.ts
+#EXTINF:0,UTV FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2221.ts
+#EXTINF:0,Viasat Explore HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2204.ts
+#EXTINF:0,Viasat History HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2203.ts
+#EXTINF:0,VIASAT NATURE
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/4604.ts
+#EXTINF:0,VH1 EUROPE
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7549.ts
+#EXTINF:0,VH1 CLASSIC
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/7548.ts
+#EXTINF:0,VIVA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/12024.ts
+#EXTINF:0,ZU TV FHD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/5057.ts
+#EXTINF:0,World Fashion Channel International
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6473.ts
+#EXTINF:0,MOLD:Publika TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6617.ts
+#EXTINF:0,MOLD:PRO TV Chihttp://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6616.ts
+#EXTINF:0,MOLD:Primul \EEn Moldova
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6615.ts
+#EXTINF:0,MOLD:Moldova 2
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6614.ts
+#EXTINF:0,MOLD:Moldova 1
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6613.ts
+#EXTINF:0,MOLD:Drochia TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6612.ts
+#EXTINF:0,MOLD:Canal Regional
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6611.ts
+#EXTINF:0,MOLD:Bhttp://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6610.ts
+#EXTINF:0,MOLD:Accent TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/6609.ts
+#EXTINF:0,RE:Actualitatea TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2372.ts
+#EXTINF:0,RE:Alfa Omega TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2375.ts
+#EXTINF:0,RE:Antena Comedy
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2377.ts
+#EXTINF:0,RE:Antena Monden
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2378.ts
+#EXTINF:0,RE:ANTENA PLAY COMEDY
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2410.ts
+#EXTINF:0,RE:Bit TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2380.ts
+#EXTINF:0,RE:Bucovina TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2381.ts
+#EXTINF:0,RE:CANAL 33
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2414.ts
+#EXTINF:0,RE:Credo TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2385.ts
+#EXTINF:0,RE:IDA TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2449.ts
+#EXTINF:0,RE:Info HD
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2387.ts
+#EXTINF:0,RE:Intermedia TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2388.ts
+#EXTINF:0,RE:Kapital TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2389.ts
+#EXTINF:0,RE:Noroc TV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2419.ts
+#EXTINF:0,RE:Profit.ro
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2393.ts
+#EXTINF:0,RE:STV
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2451.ts
+#EXTINF:0,RE:Telestar 1
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2428.ts
+#EXTINF:0,RE:TV Elita
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2460.ts
+#EXTINF:0,RE:TV Sat
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2427.ts
+#EXTINF:0,RE:TV Sud Est
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2423.ts
+#EXTINF:0,RE:TVPlus Suceava
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2453.ts
+#EXTINF:0,RE:TVR Cluj
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2400.ts
+#EXTINF:0,RE:TVR Craiova
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2421.ts
+#EXTINF:0,RE:TVR Iasi
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2420.ts
+#EXTINF:0,RE:TVR MOLDOVA
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2408.ts
+#EXTINF:0,RE:TVR Targu Mures
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2422.ts
+#EXTINF:0,RE:TVR Timisoara
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2402.ts
+#EXTINF:0,RE:VP
+http://185.101.107.184:88/live/MHkD9AdKS9/Nv14NZZ3kW/2426.ts
